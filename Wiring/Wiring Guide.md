@@ -30,7 +30,7 @@ MicroUSB power cable to RS-25-5.
 
 Before installed LRS-200-24, make sure 110V/230V switch is right.
 
-![img](Wiring Guide.assets/AC-Wiring.png)
+![img](Wiring Guide.assets/AC-Wiring.png?raw=true)
 
 ### Checking:
 

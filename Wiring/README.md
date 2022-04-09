@@ -22,9 +22,7 @@ S1: 5 wires. 8P toolhead PCB cable, 2P toolhead heater, 4P PT100, 4P Extruder st
 
 S2: 4 wires. Z endstop cable, bed heater thermistor, buildplate thermistor, bed heater power/ground wires.
 
-USB type-c power cable to RS-25-5.
 
-MicroUSB power cable to RS-25-5.
 
 ## AC Wiring
 
@@ -52,7 +50,7 @@ Note: Use the thickest wire(14AWG) from Octopus Power In to UK-2.5 terminal , an
 
 ## Octopus Wiring
 
-![OCTOPUS-wiring](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/Wiring Guide.assets/OCTOPUS-wiring.png)
+![OCTOPUS-wiring](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/OCTOPUS-wiring.png)
 
 ## Toolhead PCB & Breakout PCB
 

@@ -30,7 +30,7 @@ MicroUSB power cable to RS-25-5.
 
 Before installed LRS-200-24, make sure 110V/230V switch is right.
 
-![img](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/Wiring Guide.assets/AC-Wiring.png)
+![img](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/AC-Wiring.png)
 
 ### Checking:
 
@@ -42,7 +42,7 @@ Before installed LRS-200-24, make sure 110V/230V switch is right.
 
 Note: Use the thickest wire(14AWG) from Octopus Power In to UK-2.5 terminal , and make sure wire to the same terminal which LRS-200-24 wired to.
 
-![BASIC-DC-Wiring](Wiring Guide.assets/BASIC-DC-Wiring-9518969.png)
+![BASIC-DC-Wiring](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/BASIC-DC-Wiring.png)
 
 ### Checking:
 
@@ -60,11 +60,11 @@ There’s some differce from our Toolhead PCB and voron offical’s, to avoid th
 
 ### Breakout PCB
 
-![BREAKBOARD](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/Wiring Guide.assets/BREAKBOARD.png)
+![BREAKBOARD](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/BREAKBOARD.png)
 
 ### Toolboard PCB
 
-![toolboard](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/Wiring Guide.assets/toolboard.png)
+![toolboard](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/toolboard.png)
 
 Jumpers: For default config, set `PB_VCC` and `FAN_VCC` to `24V`, set `TH` to `CT_TH`
 
@@ -87,11 +87,11 @@ There would be a free probe port, you can use it for ERCF or anything.
 
 You can cut off the PVC trunking tooth if too crowded, especlly the bottom of breakout PCB.
 
-![Wiring-2](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/Wiring Guide.assets/Wiring-2.png)
+![Wiring-2](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/Wiring-2.png)
 
 cover the PVC trunking, done !
 
-![Wiring-3](Wiring Guide.assets/Wiring-3.png)
+![Wiring-3](https://raw.githubusercontent.com/MagicPhoenix/MPX-VORON-24R2-KIT/main/Wiring/Wiring-3.png)
 
 ## Best Practices
 

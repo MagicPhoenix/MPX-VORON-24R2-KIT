@@ -5,13 +5,23 @@ These printed parts are based on R2 version.
 ### From Offical Repository 
 
 For the plug-panel, you need to print the filtered one
-[ [power_inlet_filtered.stl\],](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/power_inlet_filtered.stl) 
+[ [power_inlet_filtered.stl\]](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Skirts/power_inlet_filtered.stl)
 
 ### From VoronUsers Mod
 
 We use sexbolt endstop instead.  
 
 Follow this : [Microswitch Z Endstop PCB](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop)
+
+### For Canbus 
+
+Print `U2C_Mount`,`Y_endstop_cable_gland_A`,`Y_endstop_cable_gland_B`
+
+Afterburner: `CW1_EBB36_Mount`
+
+Stealthburner: `CW2_EBB36_Mount`
+
+`U2C_Mount` needs a stock din clip.   
 
 ### Additional parts
 

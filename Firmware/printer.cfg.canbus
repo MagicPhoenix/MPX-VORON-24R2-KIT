@@ -51,7 +51,7 @@ square_corner_velocity: 5.0
 ##  Endstop connected to DIAG_0
 
 [static_digital_output x_es]
-pins: !EBBCan: PB7
+pins: !EBBCan: PB5
 
 
 [stepper_x]
@@ -61,7 +61,7 @@ enable_pin: !PF14
 rotation_distance: 40
 microsteps: 32
 full_steps_per_rotation:200  #set to 400 for 0.9 degree stepper
-endstop_pin: ^EBBCan: PB5
+endstop_pin: ^EBBCan: PB7
 position_min: 0
 ##--------------------------------------------------------------------
 

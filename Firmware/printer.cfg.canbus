@@ -259,36 +259,23 @@ full_steps_per_rotation: 200    #200 for 1.8 degree, 400 for 0.9 degree
 nozzle_diameter: 0.400
 filament_diameter: 1.75
 
+#-----PA2 for EBB1.1, PB13 for EBB1.2---------
+# heater_pin: EBBCan: PB13  
+# heater_pin: EBBCan: PA2
 
-heater_pin: EBBCan: PA2
+#---- NTC100K-----
 sensor_type: Generic 3950
 sensor_pin: EBBCan: PA3
-#   One of "MAX6675", "MAX31855", "MAX31856", or "MAX31865".
-#sensor_pin: PD3
-# sensor_pin: PF8
-#   The chip select line for the sensor chip. This parameter must be
-#   provided.
-# spi_speed: 2000000
-#   The SPI speed (in hz) to use when communicating with the chip.
-#   The default is 4000000.
-# spi_software_sclk_pin: EXP2_2
-# spi_software_mosi_pin: EXP2_6
-# spi_software_miso_pin: EXP2_1
-# #   See the "common SPI settings" section for a description of the
-# #   above parameters.
-# #tc_type: K
-# #tc_use_50Hz_filter: False
-# #tc_averaging_count: 1
-# #   The above parameters control the sensor parameters of MAX31856
-# #   chips. The defaults for each parameter are next to the parameter
-# #   name in the above list.
-# rtd_nominal_r: 100
-# rtd_reference_r: 430
-# rtd_num_of_wires: 4
-# #rtd_use_50Hz_filter: False
-# #   The above parameters control the sensor parameters of MAX31865
-# #   chips. The defaults for each parameter are next to the parameter
-# #   name in the above list.
+
+#-----PT100-----
+#sensor_type:MAX31865
+#sensor_pin: EBBCan: PA4
+#spi_bus: spi1
+#rtd_nominal_r: 100
+#rtd_reference_r: 430
+#rtd_num_of_wires: 4
+
+
 #control: pid
 #pid_kp = 19.755
 #pid_ki = 0.770
